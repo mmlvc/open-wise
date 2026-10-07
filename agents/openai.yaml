@@ -1,0 +1,8 @@
+interface:
+  display_name: "OpenWise"
+  short_description: "Learn engineering while Codex writes the code"
+  default_prompt: "Use $open-wise to help me build an app while I make and understand the engineering decisions."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
